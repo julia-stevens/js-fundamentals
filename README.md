@@ -1,8 +1,10 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/js-fundamentals/blob/main/docs/INSTRUCTIONS.md)
+> De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/js-fundamentals/blob/main/docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# JS Fundamentals
 
-[Beschrijving van de deeltaak]
+Leer zelfstanding de basis van programmeren met JavaScript, om te gebruiken in de leertaken.
+
+Je voortgang hou je zelfstandig bij in je Learning Journal.
 
 ## Licentie
 
