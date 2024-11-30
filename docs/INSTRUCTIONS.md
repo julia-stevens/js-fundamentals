@@ -41,7 +41,7 @@ Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoor
 
 ## Semester 3
 
-Volg in het derde semester dagelijks verschillende lessen van LearnJavaScript.online](https://learnjavascript.online/), en verdiep je nog meer in hoe JavaScript werkt, door meer theorie te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
+Volg in het derde semester dagelijks verschillende lessen van [LearnJavaScript.online](https://learnjavascript.online/), en verdiep je nog meer in hoe JavaScript werkt, door meer theorie te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
 
 Ga ook zelfstandig aan de slag met [LearnTypeScript.online](https://learntypescript.online/). De eerste 49 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van TypeScript erg handig is, dus je bereidt jezelf hiermee voor op het werkveld.
 
