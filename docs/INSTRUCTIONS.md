@@ -19,7 +19,7 @@ In het derde semester ga je zelfstandig aan de slag met TypeScript, om je klaar 
 
 ## Semester 1
 
-Volg in Sprint 5 en 6 _dagelijks_ verschillende lessen van [LearnProgramming.online](https://learnprogramming.online/). De eerste 55 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
+Volg in Sprint 5 en 6 _dagelijks_ een lesje van [LearnProgramming.online](https://learnprogramming.online/). De eerste 55 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
 
 Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. De cursus gebruikt JavaScript om programmeer concepten uit te leggen, wat goed aansluit bij onze opleiding en je alvast voorbereidt op Semester 2.
 
@@ -30,7 +30,7 @@ Probeer wat je hebt geleerd toe te passen in de leertaken in Sprint 5 en 6, met 
 
 ## Semester 2
 
-Volg in het tweede semester _dagelijks_ verschillende lessen van [LearnJaSascript.online](https://learnjavascript.online/). De eerste 77 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
+Volg in het tweede semester _dagelijks_ een les van [LearnJaSascript.online](https://learnjavascript.online/). De eerste 77 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
 
 Je kan op verschillende niveaus oefeningen doen, net als bij de vorige cursus. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is.
 
@@ -41,9 +41,9 @@ Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoor
 
 ## Semester 3
 
-Volg in het derde semester dagelijks verschillende lessen van LearnJavaScript.online](https://learnjavascript.online/), en verdiep je nog meer in hoe JavaScript werkt, door boeken te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
+Volg in het derde semester dagelijks verschillende lessen van LearnJavaScript.online](https://learnjavascript.online/), en verdiep je nog meer in hoe JavaScript werkt, door meer theorie te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
 
-Ga ook zelfstandig aan de slag met [LearnTypeScript.online](https://learntypescript.online/). De eerste 49 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van TypeScript erg handig is, dus je bereid jezelf hiermee voor op het werkveld.
+Ga ook zelfstandig aan de slag met [LearnTypeScript.online](https://learntypescript.online/). De eerste 49 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van TypeScript erg handig is, dus je bereidt jezelf hiermee voor op het werkveld.
 
 Hou in je I Love Web Learning Journal zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript en TypeScript werken. Dit kun je ook gebruiken in het mentorprogramma.
 
