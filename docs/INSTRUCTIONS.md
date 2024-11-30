@@ -1,48 +1,50 @@
-
 # JS Fundamentals
 
-Leer zelfstanding Javascript om te gebruiken in de leertaken
+Leer zelfstanding de basis van programmeren met JavaScript, om te gebruiken in de leertaken
+
 
 ## Context
 
-Deze deeltaak hoort bij sprint 10, 11 en 12, zodra we in het programma meer met client-side Javascript gaan werken. 
+Deze deeltaak hoort bij Semester 1, 2 en 3, zodra we in het programma meer met client-side JavaScript gaan werken. Je bent de opleiding begonnen met HTML en CSS, twee _declaratieve_ programmeertalen. JavaScript is een _imperatieve_ programmeertaal, wat voor veel frontenders een grote stap is. Door deze deeltaak zelfstandig stap voor stap uit te voeren, krijg je de basisvaardigheden van programmeren en JavaScript sneller onder de knie.
 
 Dit is een deeltaak die je individueel uitvoert.
-
-Deze deeltaak hoort bij de leertaken:
-- [user-experience-enhanced-website](https://github.com/fdnd-task/user-experience-enhanced-website)
-- [user-delight-pleasurable-interface](https://github.com/fdnd-task/user-delight-pleasurable-interface)
-- [proof-of-concept](https://github.com/fdnd-task/proof-of-concept)
-
 
 
 ## Doel van deze opdracht
 
-Je leert zelfstandig de fundamentals van Javascript om te gebruiken in de leertaken. 
+Je leert zelfstandig de fundamentals van Programmeren in het algemeen en JavaScript, om te gebruiken in de leertaken.
+
+In het derde semester ga je zelfstandig aan de slag met TypeScript, om je klaar te maken voor een stage en het bedrijfsleven. Veel frameworks en tools maken gebruik van TypeScript, een programmeertaal die gebaseerd is op JavaScript.
 
 
-## Werkwijze
+## Semester 1
 
-Volg wekelijks verschillende lessen van [learnjavascript.online](https://learnjavascript.online) en/of [learnprogramming.online](https://learnprogramming.online). (De eerste 50–70 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen.)
+Volg in Sprint 5 en 6 _dagelijks_ verschillende lessen van [LearnProgramming.online](https://learnprogramming.online/). De eerste 55 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
 
-Hou in een leerlog bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe Javascript werkt. Je kan het bijhouden in de wiki van deze deeltaak, maar ook in je we-love-web blog.
+Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. De cursus gebruikt Javascript om programmeer concepten uit te leggen, wat goed aansluit bij onze opleiding en je alvast voorbereidt op Semester 2.
 
-Probeer wat je hebt geleerd toe passen in de leertaak. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je leerlog. 
+Hou in je I Love Web Learning Journal _dagelijks_ zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe programmeren werkt. Bespreek je voortgang ook regelmatig met je mentoren en docenten.
 
-#### Learn Javascript 
-[learnjavascript.online](https://learnjavascript.online) is een makkelijke manier om te leren en oefenen met Javascript. Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is. 
-
-#### Learn Programming 
-[learnprogramming.online](https://learnprogramming.online) is een online cursus over programmeren. De cursus gebruikt Javascript om programmeer concepten uit te leggen. Het is iets meer high level en daarom geschikt om te doen als je nog wat minder over programmeren in het algemeen weet.
+Probeer wat je hebt geleerd toe te passen in de leertaken in Sprint 5 en 6, met client-side micro-interacties en het driestappenplan dat we je aanleren. Noteer dan in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
 
 
+## Semester 2
+
+Volg in het tweede semester _dagelijks_ verschillende lessen van [LearnJaSascript.online](https://learnjavascript.online/). De eerste 77 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. We raden je aan hierin te investeren, maar dit is aan jou.
+
+Je kan op verschillende niveaus oefeningen doen. Je krijgt oefeningen, flashcards en korte quizjes over bepaalde onderdelen. Je blijft de vragen terugkrijgen als je ze niet goed hebt en krijgt ook uitgelegd waarom iets wel goed of niet goed is.
+
+Hou in je I Love Web Learning Journal _dagelijks_ zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript werkt.
+
+Probeer wat je hebt geleerd toe te passen in de leertaken in Semester 2, bijvoorbeeld in client-side interacties en Progressive Enhancement of server-side Node, Express en EJS code. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
 
 
+## Semester 3
 
-## Criteria
+Volg in het derde semester dagelijks verschillende lessen van LearnJavaScript.online](https://learnjavascript.online/), en verdiep je nog meer in hoe JavaScript werkt, door boeken te lezen. De gratis boeken [Eloquent JavaScript](https://eloquentjavascript.net/) en [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) zijn erg goed.
 
-Deze opdracht is done als:
+Ga ook zelfstandig aan de slag met [LearnTypeScript.online](https://learntypescript.online/). De eerste 49 lessen zijn gratis, en er is studentenkorting voor als je meer lessen wilt volgen. Veel stagebedrijven gaven bij ons de afgelopen jaren aan dat kennis van TypeScript erg handig is, dus je bereid jezelf hiermee voor op het werkveld.
 
-- [ ] Je hebt verschillende Javascript lessen gevolgd en gedocumenteerd wat je hebt geleerd
-- [ ] Je hebt verschillende principes en conventies toegepast in een leertaak
+Hou in je I Love Web Learning Journal zelfstandig bij wat je zoal leert. Dit kun je ook gebruiken om iets terug te lezen en anderen uit te leggen hoe JavaScript en TypeScript werken. Dit kun je ook gebruiken in het mentorprogramma.
 
+Pas wat je hebt geleerd toe in de leertaken in Semester 3, bijvoorbeeld door tooling toe te voegen of aan te passen, en nieuwe packages op NPM te verkennen. Met name in je I Love Web project kun je hier alle kanten mee op. Zoek bijvoorbeeld eens uit hoe een Markdown parser werkt. Noteer dan met code comments in de leertaak wat je hebt toegepast en verwijs naar je Learning Journal.
