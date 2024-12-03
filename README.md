@@ -1,4 +1,6 @@
-> De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/js-fundamentals/blob/main/docs/INSTRUCTIONS.md)
+Leer zelfstanding de basis van programmeren met JavaScript, om te gebruiken in de leertaken
+
+De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/js-fundamentals/blob/main/docs/INSTRUCTIONS.md)
 
 # JS Fundamentals
 
